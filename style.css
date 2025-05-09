@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    padding: 10px;
+}
+
+.links p{
+    font-size: 10px;
+    color: rgb(46, 45, 45); 
+}
+.links p:hover{
+    color: gray;
+}
+.btn1{
+    margin-left: 500px;
+}
